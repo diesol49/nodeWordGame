@@ -1,0 +1,3 @@
+// WE NEED TO REQUIRE OUR LETTER.JS FILE HERE TO CORRECTLY RUN OUR FUNCTION
+let letter = require("./letter");
+
